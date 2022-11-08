@@ -21,3 +21,5 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 
 
 https://www.dataquest.io/blog/why-learn-the-command-line/ == > Importance of CLI
+
+https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap03.html#tag_03_170
