@@ -2,6 +2,8 @@
 
 Links
 
+  https://github.com/dataquestio/solutions -- all solution dataquest
+
   https://regexr.com/
   
   https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
